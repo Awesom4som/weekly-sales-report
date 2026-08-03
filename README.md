@@ -1,2 +1,2 @@
-# weekly-sales-report
+# index.html
 Eclectic Weekly Sales Dashboard
